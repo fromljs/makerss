@@ -1,5 +1,5 @@
 #!/bin/sh
-PATH_MAKERSS=/volume1/web/makerss
+PATH_MAKERSS=/volume1/Download
 PATH_GIT=/volume1/web/git/makerss
 
 
