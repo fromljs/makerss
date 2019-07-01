@@ -129,11 +129,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[2019.05.08] 오마이걸(OH MY GIRL) - THE FIFTH SEASON [정규] [FLAC]</showrss:showname>
 		</item>
-		<item>
-			<title>[2019.05.16] 레이디스 코드(LADIES` CODE) - FEEDBACK [싱글] [FLAC]</title>
-			<link>magnet:?xt=urn:btih:8C195E7B7B93F3D9025CC4905CBD2F987B81D09F</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[2019.05.16] 레이디스 코드(LADIES` CODE) - FEEDBACK [싱글] [FLAC]</showrss:showname>
-		</item>
 	</channel>
 </rss>
